@@ -15,9 +15,9 @@ pycorenlp
 python -m spacy download en_core_web_trf
 
 ### Source Files 
-clause_extraction_and_data_annotation.py - Used to extract clauses and create the annotated dataset.
-sentimentAwareWE.ipynb - Used to create emotion-aware embeddings.
-model.py - Trains the emotion extraction and cause extraction model on the annotated dataset and creates the predicted file.
+clause_extraction_and_data_annotation.py - Used to extract clauses and create the annotated dataset.<br>
+sentimentAwareWE.ipynb - Used to create emotion-aware embeddings.<br>
+model.py - Trains the emotion extraction and cause extraction model on the annotated dataset and creates the predicted file.<br>
 cluster_review_clauses.py - Takes the dataset with predicted cause clauses and outputs the selected cause clauses for each (product, emotion) pair
 
 ### Sentiment/Emotion Aware Word Embeddings
