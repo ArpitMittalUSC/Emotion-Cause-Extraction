@@ -1,10 +1,14 @@
 # Emotion-Cause-Extraction
 
 ### Some of the Required Libraries
-Pandas
-Numpy
-Sklearn
+pandas
+
+numpy
+
+sklearn
+
 benepar 
+
 pycorenlp
 
 ### Download en_core_web_trf
